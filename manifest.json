@@ -1,8 +1,7 @@
 {
   "name": "KB HUATES",
   "short_name": "KB Huates",
-  "description": "Los mejores munchies diseñados por Sebastian Serrano",
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#f97316",
@@ -10,12 +9,15 @@
     {
       "src": "KBHUATES.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "KBHUATES.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
+
